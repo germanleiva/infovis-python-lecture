@@ -57,8 +57,7 @@ design visualizations that are:
 ### **Fastest option — Click the Colab button at the top**  
 It will open directly in Google Colab:
 
-https://colab.research.google.com/drive/1GbwCD7eeadechSy8X44VE0lWWpU2RXo
-_
+https://colab.research.google.com/drive/1GbwCD7eeadechSy8X44VE0lWWpU2RXo_
 
 ### Option B — Manual upload  
 1. Download the `.ipynb` file  
